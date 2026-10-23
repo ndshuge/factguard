@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.pdf
+*.mp4
+*.mov
+*.docx
+*.xlsx
+output/
+work/
+local_run.json
+log.json
+
+tmp/
