@@ -13,6 +13,12 @@
 
 </div>
 
+## 竞赛公开材料
+
+- [最新作品介绍 PDF（18 页）](competition-materials/FactGuard_R9_18P.pdf)
+- [材料清单、SHA-256 与验证结果](competition-materials/README.md)
+- [公开证据摘要](competition-materials/evidence/PUBLIC_EVIDENCE.md)
+
 ---
 
 ## 它解决什么问题？
@@ -64,7 +70,7 @@ Python 3.10+；PDF 输入需要 PyMuPDF：
 
 ## 安全与真实性
 
-仓库不包含原生 TeleAgent 日志、用户原始文档、密钥、比赛 PDF 或视频。引用匹配只证明说法来自某项材料，**不能直接证明材料在现实世界中真实**。研究成果仍需人工核对和审查。
+仓库不包含原生 TeleAgent 日志、用户原始文档、密钥、原始比赛视频。引用匹配只证明说法来自某项材料，**不能直接证明材料在现实世界中真实**。研究成果仍需人工核对和审查。
 
 ---
 

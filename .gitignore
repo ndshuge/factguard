@@ -33,3 +33,7 @@ private/
 secrets/
 credentials/
 coverage/
+
+# Explicitly publish reviewed competition PDFs and evidence
+!competition-materials/
+!competition-materials/*.pdf
