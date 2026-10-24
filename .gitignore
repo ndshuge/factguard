@@ -37,3 +37,34 @@ coverage/
 # Explicitly publish reviewed competition PDFs and evidence
 !competition-materials/
 !competition-materials/*.pdf
+# Private local workspaces and competition submission drafts (public release assets are separate)
+submission/
+submissions/
+video-studio/
+release_candidates/
+*.jsonl
+*.sqlite3
+*.db-journal
+*.bak
+*.backup
+*.tmp
+*.swp
+.env.local
+.env.production
+.env.development
+*.credential
+*.credentials
+*service-account*.json
+*private-key*.json
+*.p8
+*.ppk
+*.crt
+*.der
+*.keystore
+*.jks
+**/USER.md
+**/memory-*.md
+**/*private*log*
+**/*session*log*
+**/teleagent-logs/
+**/snapshots/
